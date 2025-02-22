@@ -45,4 +45,6 @@ mac：在“字体册” App中，选取“文件”>“将字体添加到当前
 
 ---
 ## support
+I'm extremely grateful for your support😄
+![[supportme](图片URL)](https://github.com/glorydanking/still_chrysanthemum/blob/main/buy_me_a_coffee.jpg)
 
