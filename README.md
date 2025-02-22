@@ -1,7 +1,7 @@
 # 若菊体-西文(demo) Regular｜still_chrysanthemum_english(demo) Regular
 
 ## install
-windows：将字体文件包粘贴至 C：\Windows\Fonts  
+windows：将字体文件移动至 C：\Windows\Fonts  
 mac：在“字体册” App中，选取“文件”>“将字体添加到当前用户”。在出现的窗口中，连按字体文件。[其他方式安装](https://support.apple.com/zh-cn/guide/font-book/fntbk1000/mac "apple官网")
 
 ## info
