@@ -1,4 +1,4 @@
-# still_chrysanthemum
+# 若菊体-西文(demo) Regular｜still_chrysanthemum_english(demo) Regular
 
 ## install
 windows：将字体文件包粘贴至 C：\Windows\Fonts  
@@ -6,8 +6,8 @@ mac：在“字体册” App中，选取“文件”>“将字体添加到当前
 
 ## info
 
-* 中文名：若菊体-西文版(demo)
-* 英文名：still_chrysanthemum_english(demo) 
+* 中文名：若菊体-西文(demo) Regular
+* 英文名：still_chrysanthemum_english(demo) Regular
 * 介绍：《若菊体》主要元素以用菊花瓣为基础造型，旨在重新塑造汉字与拉丁文的造型而形成的一套标题字体（包含中西文正文标题字库字体）
 * 格式及字符数量：有TrueType格式，共收容英文及标点等常用字符68个
 * 著作权：著作权归作者大强所有（后附联系方式）
